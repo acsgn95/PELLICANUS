@@ -59,7 +59,7 @@ def gps(timer):
             groundspeed = float(data[7])
             gpsyaw = float(data[1])
     
-    print(latitude,hemisLat,longitude,hemisLon,height,geoidalseperation,groundspeed,gpsyaw)
+    #print(latitude,hemisLat,longitude,hemisLon,height,geoidalseperation,groundspeed,gpsyaw)
     #print(data)
 
 reset = Pin(7,Pin.OUT)
