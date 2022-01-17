@@ -8,3 +8,5 @@ Pellicanus is an open source INS/GPS integrated navigation system designed to be
 Pellicanus is not only a tactical level INS/GPS, it also comes with completely open source mathematical models, software and schematics. Also, the system sensitivity is at a level to compete with military systems on the market.
 
 Pellicanus can be configured with only a few changes to fit where you want to install it. For example, it can be used in drones, unmanned land vehicles, agricultural systems, or even robotics.
+
+![GFusion](https://user-images.githubusercontent.com/78763530/149828035-9aa356ae-d224-4f8a-8faf-f423bed22c54.png)
