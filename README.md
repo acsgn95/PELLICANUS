@@ -1,6 +1,8 @@
 # PELLICANUS
 https://www.crowdsupply.com/g-fusion/pellicanus
 
+![crowd-supply-logo-dark@2x](https://user-images.githubusercontent.com/78763530/150209087-3343a52b-b8f7-4014-8455-4775039dd88b.png)
+
 ![image](https://user-images.githubusercontent.com/78763530/149827798-d9480e51-b02b-4c99-bfbe-de5ced77979b.png)
 
 ![20211224_154711](https://user-images.githubusercontent.com/78763530/149828149-ae5b037b-489c-4200-96d9-f780288ae33e.jpg)
