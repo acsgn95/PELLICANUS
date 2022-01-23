@@ -18,7 +18,10 @@ Pellicanus can be configured with only a few changes to fit where you want to in
 
 # Navigation Algorithm
 PELLICANUS includes loosely coupled EKF/NCF with discrete architecture. The architecture is as follows.
+
 ![defaultalgortihm](https://user-images.githubusercontent.com/78763530/150411685-8fd9774f-e29a-49a3-9d9a-58852d81ff50.png)
 
 # GUI
 We are working on a GUI where you can pull raw IMU data from PELLICANUS and edit them in various AHRS and Navigation programs.
+
+![DisplayImage](https://user-images.githubusercontent.com/78763530/150698839-64f83870-bc07-46b9-8f1c-7df0c6f1497c.jpg)
