@@ -15,6 +15,10 @@ Pellicanus is not only a tactical level INS/GPS, it also comes with completely o
 Pellicanus can be configured with only a few changes to fit where you want to install it. For example, it can be used in drones, unmanned land vehicles, agricultural systems, or even robotics.
 
 ![GFusion](https://user-images.githubusercontent.com/78763530/149828035-9aa356ae-d224-4f8a-8faf-f423bed22c54.png)
+
+# Navigation Algorithm
 PELLICANUS includes loosely coupled EKF/NCF with discrete architecture. The architecture is as follows.
 ![defaultalgortihm](https://user-images.githubusercontent.com/78763530/150411685-8fd9774f-e29a-49a3-9d9a-58852d81ff50.png)
 
+# GUI
+We are working on a GUI where you can pull raw IMU data from PELLICANUS and edit them in various AHRS and Navigation programs.
