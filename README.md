@@ -25,3 +25,9 @@ PELLICANUS includes loosely coupled EKF/NCF with discrete architecture. The arch
 We are working on a GUI where you can pull raw IMU data from PELLICANUS and edit them in various AHRS and Navigation programs.
 
 ![DisplayImage](https://user-images.githubusercontent.com/78763530/150698839-64f83870-bc07-46b9-8f1c-7df0c6f1497c.jpg)
+
+# C Code
+In the future, we will share the C driver of the Default Navigation Algorithm and the C code of the sensor drivers.
+
+![PUTTY_result](https://user-images.githubusercontent.com/78763530/150804931-6b9ff653-b2a6-47cf-9c71-cb9c94e06441.png)
+
