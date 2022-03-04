@@ -32,3 +32,17 @@ In the future, we will share the C driver of the Default Navigation Algorithm an
 
 ![PUTTY_result](https://user-images.githubusercontent.com/78763530/150804931-6b9ff653-b2a6-47cf-9c71-cb9c94e06441.png)
 
+# The Understanding of Kalman Filter
+
+The Kalman filter is scary at first. But once you start, everything gets easier. I'm sharing three links that will make it easier for you to understand.
+![1_5CCvZBfEcZfxNlGX2v20MA](https://user-images.githubusercontent.com/78763530/156850388-846dd014-2a9a-4f47-8cb7-067a44d5c7b5.png)
+
+Alex Becker explains this subject very simply and in a language that everyone can understand.
+https://www.kalmanfilter.net/default.aspx
+
+I recommend you reinforce it with Michel Van Biezen.
+https://www.youtube.com/watch?v=CaCcOwJPytQ&list=PLX2gX-ftPVXU3oUFNATxGXY90AULiqnWT
+
+The codes here will allow you to grasp everything along with other filtering methods
+https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
