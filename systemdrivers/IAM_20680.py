@@ -220,6 +220,6 @@ utime.sleep(1)
 GYRO_set_250dps()
 utime.sleep(1)
 
-timer.init(freq=10, mode=machine.Timer.PERIODIC, callback=run)
+timer.init(freq=100, mode=machine.Timer.PERIODIC, callback=run)
 
 IMU_cs.value(1)
